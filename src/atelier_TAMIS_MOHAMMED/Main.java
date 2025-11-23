@@ -6,6 +6,9 @@ public class Main {
 		System.out.println("Hello, I'm TAMIS MOHAMMED");
 		
 		System.out.println("this is from main branch");
+
+		System.out.println("this is from rebase_test branch");
+
 	}
 
 }
